@@ -22,7 +22,11 @@
 
 <h2> Step 3c Temperature Analysis </h2>
 
-<p>  </p>
+<p> Write function 'calc_temps' that accepts a start date and end date in the format %Y-%m-%d and return the minimum, average, and maximum temperatures for that range of dates. </p>
+
+<p> Use 'calc_temps' function to calculate the min, avg, and max temperatures for your trip using the matching dates from the previous year' </p>
+
+<p>Plot the min, avg, and max temperature from your previous query as a bar chart. </p>
 
 <h2> Step 4 - Climate App </h2>
 
