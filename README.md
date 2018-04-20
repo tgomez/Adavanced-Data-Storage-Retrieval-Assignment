@@ -20,6 +20,8 @@
 
 <p>  </p>
 
+<p>  </p>
+
 <h2> Step 3c Temperature Analysis </h2>
 
 <p> Write function 'calc_temps' that accepts a start date and end date in the format %Y-%m-%d and return the minimum, average, and maximum temperatures for that range of dates. </p>
