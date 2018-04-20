@@ -26,4 +26,4 @@
 
 <h2> Step 4 - Climate App </h2>
 
-<p>  </p>
+<p>  Design a Flask API based on queries developed</p>
