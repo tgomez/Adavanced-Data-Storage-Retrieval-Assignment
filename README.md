@@ -2,7 +2,7 @@
 
 <h2> Step 1 - Data Engineering </h2>
 
-<p>In Step 1 I utilized jupyter notebooks and pandas to read in 2 CSV files as data frames, cleaned up the files and saved then with the prefix 'clean_'. </p>
+<p>In Step 1 I utilized jupyter notebooks and pandas to read in 2 CSV files as data frames, cleaned up the files and saved them with the prefix 'clean_'. </p>
 
 <h2> Step 2 - Database Engineering </h2>
 
@@ -14,13 +14,13 @@
 
 <h2> Step 3a Precipitation Analysis </h2>
 
-<p>  </p>
+<p> For this step, I was to design a query to retrieve the last 12 months of precipitation data, select only the date and prcp values, Load the query results into a Pandas DataFrame, set the index to the date column, and plot the results using the DataFrame plot method.  </p>
 
 <h2> Step 3b Station Analysis </h2>
 
-<p>  </p>
+<p> For this step I was to design a query to calculate the total number of stations, design a query to calculate the most active stations(in descending order) and state which is the most active.</p>
 
-<p>  </p>
+<p> Next, I was to design a query to retrieve the last 12 months of temperature observation data (tobs), filter by the station with the highest number of observations, and plot the results as a histogram with bins=12 </p>
 
 <h2> Step 3c Temperature Analysis </h2>
 
