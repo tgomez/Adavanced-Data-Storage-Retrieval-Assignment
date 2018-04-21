@@ -2,7 +2,7 @@
 
 <h2> Step 1 - Data Engineering </h2>
 
-<p>In Step 1 I utilized jupyter notebooks and pandas to read in 2 CSV files as data frames, cleaned up the files and saved them with the prefix 'clean_'. </p>
+<p>In Step 1 I utilized jupyter notebooks and pandas to read in 2 CSV files ('hawaii_measurements.csv' and hawaii_stations.csv') as data frames, cleaned up the files and saved them with the prefix 'clean_'. </p>
 
 <h2> Step 2 - Database Engineering </h2>
 
