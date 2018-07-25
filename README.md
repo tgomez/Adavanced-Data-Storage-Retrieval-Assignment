@@ -1,5 +1,5 @@
 # Hawaii Weather Analysis
-<p> using two CSVs found with info about Hawaii's weather from weather stations, I cleaned and stored data in a SQLite database and created a dashboard for analysis. </p>
+<p> Using two CSVs found with info about Hawaii's weather from weather stations, I cleaned and stored data in a SQLite database and created a dashboard for analysis. </p>
 
 <h2> Step 1 - Data Engineering </h2>
 
